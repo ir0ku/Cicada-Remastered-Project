@@ -1,4 +1,8 @@
-![Logo](https://i.imgur.com/JHbQod9.png)
+<p align="center">
+  <img src="https://i.imgur.com/JHbQod9.png">
+</p>
+
+![Logo](https://i.imgud9.png)
 
 
 # Cicada Remastered Project
