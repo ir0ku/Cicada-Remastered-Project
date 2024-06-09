@@ -1,5 +1,5 @@
 
-![Logo](https://i.imgur.com/4o5yi62.png)
+![Logo](![Logo](https://i.imgur.com/JHbQod9.png))
 
 
 # Cicada Remastered Project
