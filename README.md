@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://i.imgur.com/JHbQod9.png">
-</p>
+![CRP Logo Light](https://i.imgur.com/siFICtM.png#gh-light-mode-only)
+![CRP  Logo](https://i.imgur.com/JHbQod9.png#gh-dark-mode-only)
 
 # Cicada Remastered Project
 
